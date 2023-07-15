@@ -1,6 +1,6 @@
 # Calculadora React Native
-[Imgur](https://i.imgur.com/LX9PQST.png)
-[Imgur](https://i.imgur.com/DXPZtR0.png)
+![](https://i.imgur.com/LX9PQST.png)
+![](https://i.imgur.com/DXPZtR0.png)
 
 
 Este é um aplicativo de calculadora desenvolvido em React Native usando Expo e TypeScript. A calculadora possui um modo escuro que oferece uma experiência de usuário agradável em ambientes com pouca luminosidade.
